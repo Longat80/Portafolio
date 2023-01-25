@@ -4,3 +4,4 @@
 ### link del Github del equipo de desarrolladores: 
 <a href="https://crischess.github.io/tutoria-github/">Cristopher</a>
 
+<a href="https://github.com/carolinalunasfarah">Carolina Lunas</a>
