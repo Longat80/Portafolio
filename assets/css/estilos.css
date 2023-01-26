@@ -16,8 +16,7 @@
 /* Hero - Section */
 
 #Hero-Section {
-  height: 100vh;
-  background: url("../img/bg_hero.png");
+  height: 50vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
