@@ -17,7 +17,7 @@
 
 #Hero-Section {
   height: 100vh;
-  background: url("../img/bg_hero.png");
+  background: url("../img/bg-gl.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -52,7 +52,7 @@
 /* Sobre Mi */
 
 #Sobre-Mi {
-  color: #373a3c;
+  color: black;
 }
 
 #Sobre-Mi hr {
@@ -70,28 +70,28 @@
   font-weight: 600;
 }
 
-/* Mi Experiencia */
+/* Mis Habilidades */
 
-#Experiencia i {
-  color: #0915ed;
+#Habilidades i {
+  color: black;
 }
 
-#Experiencia div hr {
+#Habilidades div hr {
   width: 150px;
   border: 1px solid;
   background: black;
 }
 
-#Experiencia div h1 {
+#Habilidades div h1 {
   font-size: 52px;
   font-family: "Oswald";
 }
 
-#Experiencia div:last-child article h4:first-child {
+#Habilidades div:last-child article h4:first-child {
   font-family: "Oswald";
 }
 
-#Experiencia div:last-child article h4:last-child {
+#Habilidades div:last-child article h4:last-child {
   font-family: "Open Sans";
   font-weight: 300;
 }
@@ -99,7 +99,7 @@
 /* Mis últimos trabajos */
 
 #Trabajos {
-  background-color: #0915ed;
+  background-color: grey;
 }
 
 #Trabajos h1 {
