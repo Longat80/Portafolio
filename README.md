@@ -2,7 +2,7 @@
 `portafolio básico pero muy atractivo`
 <br/>
 ### link del Github del equipo de desarrolladores: 
-<a href="https://github.com/Longat80">Gilberto Longat</a>
+<a href="https://longat80.github.io/Portafolio/">Gilberto Longat</a>
 
 <a href="https://crischess.github.io/tutoria-github/">Cristopher</a>
 
